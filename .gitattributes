@@ -1,0 +1,5 @@
+*.model filter=lfs diff=lfs merge=lfs -text
+w2v-zh* filter=lfs diff=lfs merge=lfs -text
+same_event_doc_pair.txt filter=lfs diff=lfs merge=lfs -text
+same_story_doc_pair.txt filter=lfs diff=lfs merge=lfs -text
+test.txt filter=lfs diff=lfs merge=lfs -text
