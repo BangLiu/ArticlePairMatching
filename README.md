@@ -19,6 +19,9 @@ How to use
 
 **Datasets:** The CNSE dataset in the paper is in data/raw/event-story-cluster/same_event_doc_pair.txt,   and the CNSS dataset is located in data/raw/event-story-cluster/same_story_doc_pair.txt.
 
+I have uploaded the dataset to baidupan as well. You can download via:
+link:https://pan.baidu.com/s/1EDna1rspOceQUENprgXZFg  password:nhzs
+
 **CIG visualization: ** we put some figures of CIG with community detection in the folder ``CIG visualization by graph-tool''.
 
 
